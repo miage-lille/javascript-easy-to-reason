@@ -590,6 +590,13 @@ Notice that to make curry work for us, we had to reverse the argument order. Thi
 * Always return same output for a given input  ✓
 * Have kind of up to date documentation ✗
 
+## Exercice 
+Using unit tests, immutable, flow and currified functions create 4 new functions :
+* squareAreas :: (list: List\<number>) => List\<number> 
+* circleAreas :: (list: List\<number>) => List\<number> 
+* squareDiameters :: (list: List\<number>) => List\<number> 
+* circleDiameters :: (list: List\<number>) => List\<number> 
+
 ## Reason a little bit more
 * Thanks to [Preethi Kasireddy](https://twitter.com/iam_preethi) whose [talk](https://youtu.be/A5MmXLdNJfI) at ForwardJS San Francisco inspired this BBL
 * Read [Eric Elliott](https://twitter.com/_ericelliott) about [what is Functionnal programming in JS](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0) and continue by reading his related others
